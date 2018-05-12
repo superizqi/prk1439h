@@ -1,0 +1,12 @@
+CREATE DATABASE prk;
+
+USE DATABASE prk;
+
+CREATE TABLE go_prk(
+nama varchar(255),
+organisasi varchar(255),
+nohp varchar(255),
+kritik varchar(255),
+donasi varchar(255),
+masukgrup varchar(10)
+);
